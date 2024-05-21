@@ -33,7 +33,7 @@ module.exports = {
     getUserNamePasswordQuery: (nickName, password) => {
         try {
             return new Promise((resolve, _) => {
-                resolve(dbStorage.users.find(user => user.nickName.toLowerCase() === nickName.toLowerCase() && user.password === password))
+                resolve(dbStorage.users.find(user => user.nickName === nickName && user.password === password))
         })
         } catch {
             throw errorsConst.userErrors.queries.create

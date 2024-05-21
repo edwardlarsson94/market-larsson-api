@@ -10,20 +10,20 @@ const { userQuery } = require('../models/index.queries');
 
 module.exports = {
     login: async (req, res) => {
-        const { nickName, password } = req.body
+        const { user, password } = req.body
         try {
-            const user = await userQuery.getUserNamePasswordQuery(nickName, password);
-            if (!user) return responseHelpers.responseError(res, 404, errorsConst.userErrors.userNotExist);
+            const users = await userQuery.getUserNamePasswordQuery(user, password);
+            if (!users) return responseHelpers.responseError(res, 404, errorsConst.userErrors.userNotExist);
 
-            const token = jwt.sign({ id: user.id }, 'Products');
+            const token = jwt.sign({ id: users.id }, 'Products');
 
             const userFound = {
-                id: user.id,
-                name: user.name,
-                lastName: user.lastName,
-                phoneNumber: user.phoneNumber,
-                address: user.address,
-                role: user.role,
+                id: users.id,
+                name: users.name,
+                lastName: users.lastName,
+                phoneNumber: users.phoneNumber,
+                address: users.address,
+                role: users.role,
                 token
             }
             return responseHelpers.responseSuccess(res, userFound);
