@@ -32,7 +32,6 @@ module.exports = {
         try {
             const userData = {...req.body};
             userData.id =  uuidv4();
-            userData.role = "user";
             await userQuery.createNewUserQuery(userData);
             return responseHelpers.responseSuccess(res, null);
         } catch (error) {
