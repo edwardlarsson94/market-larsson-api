@@ -9,7 +9,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:31.000Z"
         },
         {
             id: "2",
@@ -20,7 +21,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:32.000Z"
         },
         {
             id: "3",
@@ -31,7 +33,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:33.000Z"
         },
         {
             id: "4",
@@ -42,7 +45,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:34.000Z"
         },
         {
             id: "5",
@@ -53,7 +57,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:35.000Z"
         },
         {
             id: "6",
@@ -64,7 +69,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:36.000Z"
         },
         {
             id: "7",
@@ -75,7 +81,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:37.000Z"
         },
         {
             id: "8",
@@ -86,7 +93,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:38.000Z"
         },
         {
             id: "9",
@@ -97,7 +105,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:39.000Z"
         },
         {
             id: "10",
@@ -108,7 +117,8 @@ module.exports = {
             address: '3245 St. Rose Parkway Henderson, Nevada 89052 USA',
             phoneNumber: '702-385-2203',
             phoneNumberPrefix: '+1',
-            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort"
+            comment: "We're between I-15 and I-215, within four miles of casinos at M Resort Spa and Green Valley Ranch Resort",
+            createdAt: "2024-05-24T08:07:40.000Z"
         },
     ]
 }
