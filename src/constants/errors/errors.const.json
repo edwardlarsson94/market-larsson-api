@@ -50,5 +50,21 @@
         "message": "error query"
       }
     }
+  },
+  "orderErrors": {
+    "orderNotExist": {
+      "code": "OTT-0001",
+      "message": "Order not exist"
+    },
+    "queries": {
+      "create": {
+        "code": "OTT0001",
+        "message": "error query"
+      },
+      "getAll": {
+        "code": "HTT0002",
+        "message": "error query"
+      }
+    }
   }
 }

@@ -14,6 +14,7 @@ class ServerModel {
             users: '/api/users',
             auth: '/api/auth',
             product: '/api/product',
+            order: '/api/order'
         }
         this.middleware();
         this.routes();
@@ -30,6 +31,7 @@ class ServerModel {
         this.app.use(this.paths.users, require('../../../routes/user.routes'));
         this.app.use(this.paths.auth, require('../../../routes/auth.routes'));
         this.app.use(this.paths.product, require('../../../routes/product.routes'));
+        this.app.use(this.paths.order, require('../../../routes/order.routes'));
     }
 
     listen() {

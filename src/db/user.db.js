@@ -2,10 +2,10 @@ module.exports = {
     users: [
         {
             id: "1",
-            fullName: "Administrador de Productos",
+            fullName: "Admin Product",
             email: "admin.product@gmail.com",
             user: "admin",
-            password: "Products2024",
+            password: "admin.2024",
             role: "admin",
         },
         {

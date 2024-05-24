@@ -1,5 +1,6 @@
 const { product } = require("./product.db");
 const { users } = require("./user.db");
+const { orders } = require("./order.db");
 
 class DbProject {
     constructor() {
@@ -16,7 +17,8 @@ class DbProject {
     connect() {
         this.dbStorage = {
             users: [...users],
-            product: [...product]
+            product: [...product],
+            orders: [...orders]
     }
     }
 }
