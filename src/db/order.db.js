@@ -86,7 +86,7 @@ module.exports = {
         },
         {
             id: "8",
-            fullName: "Felipe Pere ",
+            fullName: "Juan Carlos ",
             amountProduct: 20,
             total: 30000,
             tax: 2400,
