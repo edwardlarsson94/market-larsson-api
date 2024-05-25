@@ -30,10 +30,10 @@ module.exports = {
             throw errorsConst.userErrors.queries.create
         }
     },
-    getUserNamePasswordQuery: (nickName, password) => {
+    getUserNamePasswordQuery: (email, password) => {
         try {
             return new Promise((resolve, _) => {
-                resolve(dbStorage.users.find(user => user.nickName === nickName && user.password === password))
+                resolve(dbStorage.users.find(user => user.email === email && user.password === password))
         })
         } catch {
             throw errorsConst.userErrors.queries.create

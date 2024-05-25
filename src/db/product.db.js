@@ -5,7 +5,7 @@ module.exports = {
             image: "/apple.jpg",
             name: "Apple",
             description: "A red and juicy apple, ideal for snacks.",
-            price: 2000,
+            price: 2,
             availableQuantity: 150,
             available: true
         },
@@ -14,7 +14,7 @@ module.exports = {
             image: "/banana.jpg",
             name: "Banana",
             description: "A ripe banana, rich in potassium.",
-            price: 3000,
+            price: 3,
             availableQuantity: 200,
             available: true
         },
@@ -23,7 +23,7 @@ module.exports = {
             image: "/orange.jpg",
             name: "Orange",
             description: "Sweet and juicy orange, an excellent source of vitamin C.",
-            price: 2500,
+            price: 4.4,
             availableQuantity: 100,
             available: true
         },
@@ -32,7 +32,7 @@ module.exports = {
             image: "/carrot.jpg",
             name: "Carrot",
             description: "Fresh and crunchy carrots, perfect for salads.",
-            price: 3000,
+            price: 2,
             availableQuantity: 120,
             available: true
         },
@@ -41,7 +41,7 @@ module.exports = {
             image: "/lettuce.jpg",
             name: "Lettuce",
             description: "Fresh and green lettuce, ideal for salads.",
-            price: 1500,
+            price: 12,
             availableQuantity: 80,
             available: true
         },
@@ -50,7 +50,7 @@ module.exports = {
             image: "/tomato.jpg",
             name: "Tomato",
             description: "Red and juicy tomatoes, perfect for sauces and salads.",
-            price: 3000,
+            price: 11,
             availableQuantity: 90,
             available: true
         },
@@ -59,7 +59,7 @@ module.exports = {
             image: "/brocoli.jpg",
             name: "Broccoli",
             description: "Fresh and nutritious broccoli, an excellent source of fiber.",
-            price: 1500,
+            price: 14,
             availableQuantity: 70,
             available: true
         },
@@ -68,7 +68,7 @@ module.exports = {
             image: "/cucumber.jpg",
             name: "Cucumber",
             description: "Fresh and crunchy cucumbers, ideal for salads.",
-            price: 2500,
+            price: 16,
             availableQuantity: 110,
             available: true
         },
@@ -77,7 +77,7 @@ module.exports = {
             image: "/pineapple.jpg",
             name: "Pineapple",
             description: "Sweet and juicy pineapple, perfect for desserts and juices.",
-            price: 5000,
+            price: 6,
             availableQuantity: 60,
             available: true
         },
@@ -86,7 +86,7 @@ module.exports = {
             image: "/strawberry.jpg",
             name: "Strawberry",
             description: "Fresh and sweet strawberries, ideal for desserts and smoothies.",
-            price: 6000,
+            price: 1,
             availableQuantity: 50,
             available: true
         },
@@ -95,7 +95,7 @@ module.exports = {
             image: "/grapes.jpg",
             name: "Grapes",
             description: "Juicy grapes, ideal for snacking and desserts.",
-            price: 8000,
+            price: 8,
             availableQuantity: 70,
             available: true
         },
@@ -104,7 +104,7 @@ module.exports = {
             image: "/watermelon.jpg",
             name: "Watermelon",
             description: "Refreshing and juicy watermelon, perfect for summer.",
-            price: 3000,
+            price: 12,
             availableQuantity: 40,
             available: true
         },
@@ -113,7 +113,7 @@ module.exports = {
             image: "/spinach.jpg",
             name: "Spinach",
             description: "Fresh and nutritious spinach, ideal for salads and cooking.",
-            price: 1.2,
+            price: 20,
             availableQuantity: 80,
             available: true
         },
@@ -122,7 +122,7 @@ module.exports = {
             image: "/potato.jpg",
             name: "Potato",
             description: "Versatile potatoes, ideal for roasting, mashing, or frying.",
-            price: 4500,
+            price: 6.8,
             availableQuantity: 90,
             available: true
         },
@@ -131,7 +131,7 @@ module.exports = {
             image: "/cabbage.jpg",
             name: "Cabbage",
             description: "Fresh and crunchy cabbage, perfect for salads and coleslaw.",
-            price: 3000,
+            price: 3.5,
             availableQuantity: 100,
             available: true
         },
@@ -140,7 +140,7 @@ module.exports = {
             image: "/blueberries.jpg",
             name: "Blueberries",
             description: "Sweet and antioxidant-rich blueberries, ideal for desserts and smoothies.",
-            price: 2000,
+            price: 12,
             availableQuantity: 60,
             available: true
         },
@@ -149,7 +149,7 @@ module.exports = {
             image: "/mango.jpg",
             name: "Mango",
             description: "Sweet and tropical mango, perfect for desserts and snacks.",
-            price: 3000,
+            price: 8.6,
             availableQuantity: 70,
             available: true
         },
@@ -158,7 +158,7 @@ module.exports = {
             image: "/asparagus.jpg",
             name: "Asparagus",
             description: "Fresh and nutritious asparagus, excellent for grilling or roasting.",
-            price: 2500,
+            price: 8.5,
             availableQuantity: 80,
             available: true
         },
@@ -167,7 +167,7 @@ module.exports = {
             image: "/pepper.jpg",
             name: "Bell Pepper",
             description: "Colorful and flavorful bell peppers, perfect for salads and stews.",
-            price: 3500,
+            price: 3.2,
             availableQuantity:24,
             available: true
         },
@@ -176,7 +176,7 @@ module.exports = {
             image: "/squash.jpg",
             name: "Squash",
             description: "Fresh and nutritious squash, excellent for grilling or roasting",
-            price: 7500,
+            price: 2.7,
             availableQuantity: 100,
             available: true
         }
