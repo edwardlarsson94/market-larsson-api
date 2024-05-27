@@ -23,7 +23,7 @@ module.exports = {
             image: "/orange.jpg",
             name: "Orange",
             description: "Sweet and juicy orange, an excellent source of vitamin C.",
-            price: 4.4,
+            price: 4,
             availableQuantity: 100,
             available: true
         },
@@ -122,7 +122,7 @@ module.exports = {
             image: "/potato.jpg",
             name: "Potato",
             description: "Versatile potatoes, ideal for roasting, mashing, or frying.",
-            price: 6.8,
+            price: 6,
             availableQuantity: 90,
             available: true
         },
@@ -131,7 +131,7 @@ module.exports = {
             image: "/cabbage.jpg",
             name: "Cabbage",
             description: "Fresh and crunchy cabbage, perfect for salads and coleslaw.",
-            price: 3.5,
+            price: 5,
             availableQuantity: 100,
             available: true
         },
@@ -149,7 +149,7 @@ module.exports = {
             image: "/mango.jpg",
             name: "Mango",
             description: "Sweet and tropical mango, perfect for desserts and snacks.",
-            price: 8.6,
+            price: 6,
             availableQuantity: 70,
             available: true
         },
@@ -158,7 +158,7 @@ module.exports = {
             image: "/asparagus.jpg",
             name: "Asparagus",
             description: "Fresh and nutritious asparagus, excellent for grilling or roasting.",
-            price: 8.5,
+            price: 8,
             availableQuantity: 80,
             available: true
         },
@@ -167,7 +167,7 @@ module.exports = {
             image: "/pepper.jpg",
             name: "Bell Pepper",
             description: "Colorful and flavorful bell peppers, perfect for salads and stews.",
-            price: 3.2,
+            price: 3,
             availableQuantity:24,
             available: true
         },
@@ -176,7 +176,7 @@ module.exports = {
             image: "/squash.jpg",
             name: "Squash",
             description: "Fresh and nutritious squash, excellent for grilling or roasting",
-            price: 2.7,
+            price: 7,
             availableQuantity: 100,
             available: true
         }
