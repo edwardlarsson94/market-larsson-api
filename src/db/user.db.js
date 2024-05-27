@@ -3,17 +3,17 @@ module.exports = {
         {
             id: "1",
             fullName: "Admin Product",
-            email: "admin.product@gmail.com",
+            email: "admin@gmail.com",
             user: "admin",
             password: "admin.2024",
             role: "admin",
         },
         {
             id: "2",
-            fullName: "Felipe Perez",
-            email: "felipe.perez@gmail.com",
-            user: "felipe.perez",
-            password: "perez2024",
+            fullName: "User Test",
+            email: "user.test@gmail.com",
+            user: "user.test",
+            password: "test.2024",
             role: "user"
         }
     ]
